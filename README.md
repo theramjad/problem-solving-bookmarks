@@ -31,4 +31,4 @@ This is an **incomplete** list of resources I would recommend for GCSE students 
 
 ## YouTube Channels
 - [Freecodecamp](https://www.youtube.com/c/Freecodecamp/videos) has some great introductory videos for programming languages.
-- [The Coding Train](https://www.youtube.com/thecodingtrain/) has some really fun creative coding tutorials and challenges.
+- [The Coding Train](https://www.youtube.com/thecodingtrain/) has some really fun creative coding tutorials and challenges. You navigate his video library more easily using his [website](https://thecodingtrain.com/).
