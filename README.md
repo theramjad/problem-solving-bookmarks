@@ -9,7 +9,7 @@ This is a list of resources I would recommend for GCSE / A-level students wantin
 - [Brilliant.org](https://brilliant.org) is quite popular and has some really fun problems on their community and practice pages. You don't need to buy their premium subscription to use them, only for the course. I found these free pages to be better than buying the subscription.
 - [Nigel Coldwell's Riddles](http://puzzles.nigelcoldwell.co.uk/) has some really fun problems of varying difficulty and useful hints.
 - [AoPS Collection](https://artofproblemsolving.com/community/c13_contests) has problems ranging from local math competitions to the IMO.
-- [Cut THe Knot](https://www.cut-the-knot.org/)
+- [Cut The Knot](https://www.cut-the-knot.org/)
 - [Maths Challenge](https://mathschallenge.net/)
 
 ## Challenges / Olympiads
