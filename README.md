@@ -15,7 +15,7 @@ This is an **incomplete** list of resources I would recommend for GCSE / A-level
 - [Maths Challenge](https://mathschallenge.net/)
 
 ## Challenges / Olympiads
-- [Senior UKMT Challenge Questions](ttps://colmanweb.co.uk/problemsolving/ukmt.htm) is doable for Year 11 students. You can enter the competition in Sixth Form or even earlier (by asking your teachers). If you start to find these problems too easy, have a look at the [BMO1 Papers](https://bmos.ukmt.org.uk/home/bmo.shtml#bmo1).
+- [Senior UKMT Challenge Questions](https://colmanweb.co.uk/problemsolving/ukmt.html) is doable for Year 11 students. You can enter the competition in Sixth Form or even earlier (by asking your teachers). If you start to find these problems too easy, have a look at the [BMO1 Papers](https://bmos.ukmt.org.uk/home/bmo.shtml#bmo1).
 - [Intermediate Physics Challenge](https://www.bpho.org.uk/past-papers/physics-challenge-gcse)
 
 ## YouTube Channels
