@@ -1,4 +1,4 @@
-This is a list of resources I would recommend for GCSE / A-level students wanting to improve their problem solving skills. Feel free to bookmark this page and come back to it regularly to see any changes.
+This is a list of resources I would recommend for GCSE / A-level students wanting to improve their problem solving skills. Feel free to bookmark this page and come back to it regularly to see any changes. I also recommend reading my tips for problem solving [here](https://github.com/RehmanAmjad/tips-on-problem-solving/blob/master/README.md).
 
 
 # Maths / Physics
