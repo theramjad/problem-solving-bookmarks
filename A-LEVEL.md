@@ -5,7 +5,7 @@ This is an **incomplete** list of resources (in no particular order) that I woul
 # Maths / Physics
 
 ## Books
-_Note that you don't have to buy all these books. I included the Google Books link for each. You can find them on Amazon or eBay yourself._
+_I have included the Google Books link for each. You can find them on Amazon or eBay and buy them yourself._
 
 - [Thinking Physics](https://books.google.co.uk/books?id=Q9ZINwAACAAJ) had a really good collection of short physics-related problems. It's probably the most accessible book of this list.
 - [Professor Povey's Preplexing Problems](https://books.google.co.uk/books?id=Jmh-zQEACAAJ) is a book I bought in early Year 12 and used it a lot throughout the two years. It has a great set of problems of varying difficulty across physics with some neat solutions too.
