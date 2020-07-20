@@ -4,7 +4,7 @@ This is an **incomplete** set of lists that I am creating for GCSE and A-level s
 
 Whilst you are here, I would recommend reading my tips for problem solving which you can find [here](https://github.com/RehmanAmjad/tips-on-problem-solving/blob/master/README.md).
 
-If you would like to make any suggestions then feel free to send me a message on my [Instagram](https://www.instagram.com/theramjad/).
+If you would like to make any suggestions then feel free to send me a message on my [Instagram](https://www.instagram.com/theramjad/) or make an issue here on GitHub.
 
 # GCSE
 
