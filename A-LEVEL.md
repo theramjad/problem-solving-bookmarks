@@ -1,4 +1,4 @@
-_Last updated: 20th July 2020_
+_Last updated: 21st July 2020_
 
 This is an **incomplete** list of resources (in no particular order) that I would recommend for A-level students wanting to improve their problem solving skills for admissions tests, end of year exams, and university.
 
@@ -8,9 +8,9 @@ This is an **incomplete** list of resources (in no particular order) that I woul
 _I have included the Google Books link for each. You can find them on Amazon or eBay and buy them yourself._
 
 - [Thinking Physics](https://books.google.co.uk/books?id=Q9ZINwAACAAJ) had a really good collection of short physics-related problems. It's probably the most accessible book of this list.
-- [Professor Povey's Preplexing Problems](https://books.google.co.uk/books?id=Jmh-zQEACAAJ) is a book I bought in early Year 12 and used it a lot throughout the two years. It has a great set of problems of varying difficulty across physics with some neat solutions too.
-- [The Chicken from Minsk](https://books.google.co.uk/books?id=X99AAQAAIAAJ) is a colleciton of maths and physics brain twisters of varyin difficultly that I really enjoyed doing.
-- [Brainteaster Physics](https://books.google.co.uk/books/about/Brainteaser_Physics.html?id=rLAI-0GVnD8C) is an awesome book that got me thinking about some fun and imaginative problems. I only did a few questions from here because some are really quite solid!
+- [Professor Povey's Perplexing Problems](https://books.google.co.uk/books?id=Jmh-zQEACAAJ) is a book I bought in early Year 12 and used it a lot throughout the two years. It has a great set of problems of varying difficulty across physics with some neat solutions too.
+- [The Chicken from Minsk](https://books.google.co.uk/books?id=X99AAQAAIAAJ) is a collection of maths and physics brain twisters of varying difficultly that I really enjoyed doing.
+- [Brainteaser Physics](https://books.google.co.uk/books/about/Brainteaser_Physics.html?id=rLAI-0GVnD8C) is an awesome book that got me thinking about some fun and imaginative problems. I only did a few questions from here because some are really quite solid!
 
 
 ## Websites
