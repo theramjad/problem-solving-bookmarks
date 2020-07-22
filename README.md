@@ -8,8 +8,8 @@ If you would like to make any suggestions then feel free to send me a message on
 
 # GCSE
 
-You can find my GCSE recommendations [here](https://github.com/RehmanAmjad/problem-solving-bookmarks/blob/master/GCSE.md).
+You can find my GCSE problem-solving recommendations [here](https://github.com/RehmanAmjad/problem-solving-bookmarks/blob/master/GCSE.md).
 
 # A-level
 
-You can find my A-level recommendations [here](https://github.com/RehmanAmjad/problem-solving-bookmarks/blob/master/A-LEVEL.md). If you want resources more relevant to some admissions tests, look at my list [here](https://github.com/RehmanAmjad/problem-solving-bookmarks/blob/master/ADMISSIONS-TESTS.md).
+You can find my A-level problem-solving recommendations [here](https://github.com/RehmanAmjad/problem-solving-bookmarks/blob/master/A-LEVEL.md). If you want resources more relevant to some admissions tests, look at my list [here](https://github.com/RehmanAmjad/problem-solving-bookmarks/blob/master/ADMISSIONS-TESTS.md).
