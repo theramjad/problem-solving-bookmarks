@@ -21,6 +21,7 @@ _I have included the Google Books link for each. You can find them on Amazon or 
 - [AoPS Contest Collection](https://artofproblemsolving.com/community/c13_contests) has problems ranging from local math competitions to the IMO.
 - [Cut The Knot](https://www.cut-the-knot.org/) has some fun maths problems with nice Java applets to improve your understanding.
 - [Maths Challenge](https://mathschallenge.net/archive) has an awesome collection of problems of varying difficulty which you can find as 4 big PDF's.
+- [PhysicsLAB](http://www.physicslab.org/Compilations/NextTime.aspx) has a solid set of counterintuitive problems.
 
 ## Challenges / Olympiads
 - [Senior UKMT Challenge Questions](https://colmanweb.co.uk/problemsolving/ukmt.html) has many many great and hard maths problems that don't require anything beyond Year 11 Maths. You can enter the competition in Sixth Form or even earlier (by asking your teachers). If you start to find these problems too easy, have a look at the [BMO1 Papers](https://bmos.ukmt.org.uk/home/bmo.shtml#bmo1).
