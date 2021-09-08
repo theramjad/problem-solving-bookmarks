@@ -2,9 +2,9 @@ _Last updated: 21st July 2020_
 
 This is an **incomplete** set of lists that I am creating for GCSE and A-level students who wish to improve their problem solving skills. Feel free to bookmark this page (with today's date to compare to last updated) and come back to it regularly to see any changes.
 
-Whilst you are here, I would recommend reading my tips for problem solving which you can find [here](https://github.com/RehmanAmjad/tips-on-problem-solving/blob/master/README.md).
+# All Levels
 
-If you would like to make any suggestions then feel free to send me a message on my [Instagram](https://www.instagram.com/theramjad/) or make an issue here on GitHub.
+I would highly recommend checking the relevant sections of the [Art of Problem Solving Forums](https://artofproblemsolving.com/community) because there is so much good stuff.
 
 # GCSE
 
