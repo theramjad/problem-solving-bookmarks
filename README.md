@@ -2,9 +2,9 @@ _Last updated: 8th September 2021_
 
 This is an **incomplete** set of lists that I am creating for GCSE and A-level students who wish to improve their problem solving skills. Feel free to bookmark this page (with today's date to compare to last updated) and come back to it regularly to see any changes.
 
-# All Levels
+# All Ages
 
-I would highly recommend checking the relevant sections of the [Art of Problem Solving Forums](https://artofproblemsolving.com/community) because there is so much good stuff.
+I would highly recommend checking the relevant sections of the [Art of Problem Solving Forums](https://artofproblemsolving.com/community) that you feel just a little uncomfortable doing.
 
 # GCSE
 
