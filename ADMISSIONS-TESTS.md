@@ -1,6 +1,6 @@
 _Last updated: 22nd July 2020_
 
-This is an **incomplete** list of resources (in no particular order) that I found for the following admissions tests. These exclude the original sources you can find on the relevant websites.
+This is an **incomplete** list of resources (in no particular order) that I found for the following admissions tests. These exclude the official websites for the admissions tests themselves.
 
 # NSAA (Cambridge)
 - [BMAT Section 2 Past Papers](https://www.admissionstesting.org/for-test-takers/bmat/preparing-for-bmat/practice-papers/) are very similar to the first section in the NSAA.
